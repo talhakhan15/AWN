@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project automates login and logout scenario testing using \*\*Selenium \*\*in **Java**. The script performs multiple login and logout attempts, measures execution time, and logs results to a text file.
+This project automates login and logout scenario for performance evaluation using logs and \*\*Selenium \*\*in **Java**. The script performs multiple login and logout attempts, measures execution time, and logs results to a text file.
 
 ## **Features**
 
