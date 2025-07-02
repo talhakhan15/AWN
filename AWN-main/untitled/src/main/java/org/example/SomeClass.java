@@ -57,10 +57,10 @@ public class SomeClass {
             driver.get(myUrl);
             WebElement email = driver.findElement(By.id("email"));
             email.clear();
-            email.sendKeys("superadmin@awn.com");
+            email.sendKeys("ANYADMIN@awn.com");
             WebElement pass = driver.findElement(By.id("password"));
             pass.clear();
-            pass.sendKeys("root@123" + Keys.ENTER);
+            pass.sendKeys("somePassw00rd" + Keys.ENTER);
 
             waitForPageLoad();
 
